@@ -1,16 +1,32 @@
-### Hi there 👋
+_there will be no miracles here_
 
-<!--
-**cahalane/cahalane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
+senior SRE @ indeed  
+formerly SWE @ hubspot  
+former intern at google sre, teamwork.com  
+not currently seeking employment opportunities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+
+management and PR rat for hausu  
+live visuals / design work for actualacid  
+video / layout / design work for marcus woods
+
+<hr>
+
+ongoing machine learning artwork collaboration with olwen kelly.  
+seeking exhibition opportunities. please contact for samples and report  
+
+<hr>
+
+graduated compsci in ucc with the peel memorial prize, runner-up to graduate of the year  
+formerly of ucc netsoc and motley magazine
+
+<hr>
+
+colm cahalane at gmail  
+<a href="http://twitter.com/colmfromhausu">twitter.com/colmfromhausu</a>  
+<a href="https://keybase.io/cahalane">keybase.io/cahalane</a> (gpg keys etc here)  
+<a href="http://colm.cf/cv">view cv (pdf)</a>  
+<a href="http://colm.cf/linkedin">linkedin</a>  
